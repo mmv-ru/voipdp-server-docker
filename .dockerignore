@@ -3,4 +3,5 @@
 *~
 .*\.kate-swp
 .*\.swp
-
+build.sh
+run.sh
