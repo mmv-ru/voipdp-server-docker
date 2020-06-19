@@ -1,3 +1,4 @@
+#!/usr/bin/sh
 docker container rm voipdp-server
 docker run --net=host --name=voipdp-server \
   --detach \
