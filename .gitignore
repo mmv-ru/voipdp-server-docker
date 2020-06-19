@@ -1,0 +1,7 @@
+# tmp files
+**/*~
+**/*.kate-swp
+**/*.swp
+# distros
+voipdp-*.tgz
+voipdp-*.deb
