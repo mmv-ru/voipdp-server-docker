@@ -1,6 +1,6 @@
 #!/bin/bash
-export VERSION=3.5.25-26
-export PLATFORM=deb_amd64
+VERSION=3.5.25-26
+PLATFORM=deb_amd64
 pushd "$(dirname "$0")"
 curl -o voipdp-server_deb_amd64.tgz \
      http://download.komendant.pro/voip-dp/linux/voipdp-server_$PLATFORM.tgz
